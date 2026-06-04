@@ -101,11 +101,6 @@ When I'm not building pipelines, I share what I learn with the community through
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harry-Krishna&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
