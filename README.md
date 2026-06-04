@@ -81,9 +81,7 @@ When I'm not building pipelines, I share what I learn with the community through
 </div>
 
 <div align="center">
-  <a href="https://github.com/Harry-Krishna">
-    <img src="https://img.shields.io/github/followers/Harry-Krishna?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-  </a>
+
 </div>
 
 <br/>
