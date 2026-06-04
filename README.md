@@ -75,24 +75,12 @@ When I'm not building pipelines, I share what I learn with the community through
 ## 🌐 Find Me Online
 
 <div align="center">
-  <a href="https://www.youtube.com/@HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/hari-krishna-varada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@HarikrishnaVarada">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_PLACEHOLDER?style=flat-square&logo=youtube&label=Subscribers&color=FF0000" alt="YouTube subscribers" />
-  </a>
   <a href="https://github.com/Harry-Krishna">
     <img src="https://img.shields.io/github/followers/Harry-Krishna?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers" />
   </a>
@@ -130,15 +118,7 @@ I'm always open to collaborating on data projects, talking pipelines, or sharing
   <a href="https://www.linkedin.com/in/hari-krishna-varada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/HarikrishnaVarada">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+ 
 
 <br/><br/>
 
