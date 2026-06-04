@@ -1,47 +1,77 @@
-<h1 align="center">Harikrishna Varada</h1>
-<p align="center">Data Engineer &amp; Analytics Specialist</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Harikrishna+Varada;Data+Engineer+%7C+Analytics+Specialist;I+build+pipelines+that+don't+break+at+2am" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pipelines%20%26%20ETL-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Modelling-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/Analytics%20%26%20BI-005571?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=Harry-Krishna&label=Profile%20views&color=0e75b6&style=flat-square" />
-</p>
+## About Me
 
-## About
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Harikrishna Varada"
+        self.role = "Data Engineer & Analytics Specialist"
+        self.experience = 3  # years
+        self.focus = ["ETL Design", "Data Modelling", "Stream Processing"]
+        self.learning = "Cloud-native data platforms"
 
-Data Engineer and Analytics specialist with 3+ years of experience building scalable data pipelines and turning raw data into reliable, decision-ready insights. I focus on clean ETL design, solid data modelling, and BI that people actually use.
-
-Currently sharpening my skills in stream processing and cloud-native data platforms, and always open to collaborating on data, analytics, and DevOps work.
+    def motto(self):
+        return "Turn raw data into reliable, decision-ready insights."
+```
 
 ## Tech Stack
 
-**Data Engineering**
+<details open>
+<summary>📊 Data Engineering</summary>
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Design-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white)
-![Data Modelling](https://img.shields.io/badge/Data%20Modelling-005571?style=flat-square&logo=databricks&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20Design-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Modelling-005571?style=flat-square&logo=databricks&logoColor=white" />
+</details>
 
-**Cloud &amp; DevOps**
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<details>
+  <summary>☁️ Cloud & DevOps</summary>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</details>
 
-**Analytics &amp; BI**
-<br>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<details>
+  <summary>📈 Analytics & BI</summary>
+  <br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</details>
 
+## GitHub Activity
 
-## Connect
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harry-Krishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Krishna&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-Krishna&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harry-Krishna&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-krishna-varada/)
+## Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-krishna-varada/)
+
+<i>Always open to chats about data, pipelines, and analytics.</i>
+
+</div>
