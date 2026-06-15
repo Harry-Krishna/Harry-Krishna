@@ -20,7 +20,7 @@
 
 I'm a **Data Engineer & Analytics Specialist** with **3+ years** of experience designing reliable data pipelines and turning messy raw data into clean, decision-ready insights. I build batch & stream processing systems, model data at scale, and ship analytics that teams actually use.
 
-When I'm not building pipelines, I share what I learn with the community through **YouTube**, **Medium**, and **Instagram**. 📚
+When I'm not building pipelines, I share what I learn with the community through  **Instagram**. 📚
 
 - 🔭 I'm currently focused on **ETL design, data modelling, and cloud-native data platforms**
 - 🌱 I'm always learning more about **stream processing, MLOps, and scalable architectures**
