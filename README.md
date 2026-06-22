@@ -11,14 +11,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=60&lines=Data+Engineer+%7C+Analytics+Specialist;3%2B+Years+Building+Data+Pipelines;I+turn+raw+data+into+decision-ready+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst+%7C+Analytics+Specialist;3%2B+Years+Building+Data+Pipelines;I+turn+raw+data+into+decision-ready+insights" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-I'm a **Data Engineer & Analytics Specialist** with **3+ years** of experience designing reliable data pipelines and turning messy raw data into clean, decision-ready insights. I build batch & stream processing systems, model data at scale, and ship analytics that teams actually use.
+I'm a **Data Analyst Specialist** with **3+ years** of experience designing reliable data pipelines and turning messy raw data into clean, decision-ready insights. I build batch & stream processing systems, model data at scale, and ship analytics that teams actually use.
 
 When I'm not building pipelines, I share what I learn with the community through  **Instagram**. 📚
 
